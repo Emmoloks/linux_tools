@@ -1,0 +1,2 @@
+grep: is a command line utility whose basic job is to search files for patterns and print out matches according to specified options.
+global regular expression print: syntax $ grep pig file: this command will find instances of the string pig in a file

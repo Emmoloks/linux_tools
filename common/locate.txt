@@ -1,0 +1,2 @@
+locate: this command is used to locate files in the entire filesystem except for paths that have been excluded. This can be useful in a database that is updated periodically.
+ syntax: locate .txt

@@ -1,0 +1,4 @@
+first line is dog
+second dog is line
+dog is third
+will change dog to dog using sed command

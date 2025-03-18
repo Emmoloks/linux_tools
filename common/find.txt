@@ -1,0 +1,1 @@
+find: command used to find files based on their properties including names. But does not search the interior of a file that is more of grep

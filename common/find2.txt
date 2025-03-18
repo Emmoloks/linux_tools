@@ -1,0 +1,4 @@
+
+here is a simple example of finding files with .txt extension in our current directory
+
+find -name "*.txt"

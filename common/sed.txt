@@ -1,0 +1,4 @@
+first line is cow
+second cow is line
+cow is third
+will change cow to dog using sed command
