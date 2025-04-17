@@ -1,0 +1,4 @@
+I remove duplicate consecutive files
+I remove duplicate consecutive files
+i go with -u also
+my name is Uniq

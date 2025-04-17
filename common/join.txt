@@ -1,0 +1,2 @@
+join is a more advanced option of paste
+because it first checks whether the files share a common field such as name or phonenumbers and then joins the lines

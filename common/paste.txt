@@ -1,0 +1,4 @@
+Paste: can be used to combine fields from different files
+example is a phone file and a name file
+option -d can be used to add a delimiter
+Delimiter is a character or a symbol that separates data elements within a text eg: a comma in a csv file

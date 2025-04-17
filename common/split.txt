@@ -1,0 +1,3 @@
+Split: used to breakdown large files into equal sized files for easier viewing and manipulation
+By default it breaksdown a file into 1000-line segments and the original file remains unchanged
+The new files wil have the same name but a prefix will be added usually is x as the prefix
